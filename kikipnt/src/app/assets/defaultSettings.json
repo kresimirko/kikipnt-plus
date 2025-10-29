@@ -3,5 +3,5 @@
     "theme": "auto",
     "blur_enabled": false,
     "dark_tiles": true,
-    "retina_tiles": "never"
+    "retina_tiles": "auto"
 }

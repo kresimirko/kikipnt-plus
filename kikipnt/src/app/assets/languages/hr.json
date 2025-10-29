@@ -55,7 +55,7 @@
     "ui.sp.settings.map.retina_tiles": "Retina (high DPI) pločice karte",
     "ui.sp.settings.map.retina_tiles.always": "Uvijek",
     "ui.sp.settings.map.retina_tiles.never": "Nikad",
-    "ui.sp.settings.map.retina_tiles.info.auto": "<b>[UPOZORENJE, LISTOPAD 2025: Ovo je postavljeno na \"Nikad\" po defaultu zbog problema.]</b><br><span class=\"opacity-70\">ⓘ Opcija \"Automatsko\" provjerava ima li uređaj visoki DPI samo u trenutku otvaranja aplikacije.</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://en.wikipedia.org/wiki/Dots_per_inch\">Što je DPI?</a>",
+    "ui.sp.settings.map.retina_tiles.info.auto": "<span class=\"opacity-70\">ⓘ Opcija \"Automatsko\" provjerava ima li uređaj visoki DPI samo u trenutku otvaranja aplikacije.</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://en.wikipedia.org/wiki/Dots_per_inch\">Što je DPI?</a>",
     "ui.sp.settings.map.retina_tiles.info.load": "<span class=\"opacity-70\">ⓘ Ako se pločice karte ne uspijevaju učitati, pokušajte opciju \"Nikad\".</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://www.maptilesapi.com/retina-tiles/\">Retina Tiles API</a> <span class=\"opacity-70\">je freemium i može biti potrošeno (resetira se svaki dan).</span>",
 
     "ui.sp.settingsdev.title": "Razvojske opcije",
