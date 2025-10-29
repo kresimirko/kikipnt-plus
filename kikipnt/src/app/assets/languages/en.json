@@ -20,7 +20,7 @@
     "ui.sp.home.title": "Home",
     "ui.sp.home.greeting": "Welcome!",
     "ui.sp.home.learn_more": "Learn more by clicking the <span class=\"material-symbols-rounded px-1\">info</span> icon.",
-    "ui.sp.home.new_kikipnt_alert": "You're using a version of kikipnt with additional improvements.<br>Click/tap <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://kresimirko.github.io/kikipnt/old/#/\">here</a> to view kikipnt as it was originally.",
+    "ui.sp.home.new_kikipnt_alert": "Want old kikipnt? Click/tap <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://kresimirko.github.io/kikipnt/#/\">here</a>.",
 
     "ui.sp.map.title": "Map",
     "ui.sp.map.marker.focus_on_prev": "Focus on previous",
@@ -55,7 +55,7 @@
     "ui.sp.settings.map.retina_tiles": "Retina (high DPI) map tiles",
     "ui.sp.settings.map.retina_tiles.always": "Always",
     "ui.sp.settings.map.retina_tiles.never": "Never",
-    "ui.sp.settings.map.retina_tiles.info.auto": "<span class=\"opacity-70\">ⓘ The \"Automatic\" option checks if the device has a high DPI only on app startup.</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://en.wikipedia.org/wiki/Dots_per_inch\">What is DPI?</a>",
+    "ui.sp.settings.map.retina_tiles.info.auto": "<b>[NOTICE AS OF OCTOBER 2025: This has been set to \"Never\" by default due to issues.]</b><br><span class=\"opacity-70\">ⓘ The \"Automatic\" option checks if the device has a high DPI only on app startup.</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://en.wikipedia.org/wiki/Dots_per_inch\">What is DPI?</a>",
     "ui.sp.settings.map.retina_tiles.info.load": "<span class=\"opacity-70\">ⓘ If map tiles fail to load, try setting this to \"Never\". The</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://www.maptilesapi.com/retina-tiles/\">Retina Tiles API</a> <span class=\"opacity-70\">is freemium and might get used up (resets each day).</span>",
 
     "ui.sp.settingsdev.title": "Developer options",

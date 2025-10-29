@@ -20,7 +20,7 @@
     "ui.sp.home.title": "Početna",
     "ui.sp.home.greeting": "Dobrodošli!",
     "ui.sp.home.learn_more": "Kliknite <span class=\"material-symbols-rounded px-1\">info</span> ikonu kako biste saznali više.",
-    "ui.sp.home.new_kikipnt_alert": "Koristite verziju kikipnta s dodatnim poboljšanjima.<br>Kliknite/dodirnite <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://kresimirko.github.io/kikipnt/old/#/\">ovdje</a> kako biste vidjeli originalan kikipnt.",
+    "ui.sp.home.new_kikipnt_alert": "Želite stari kikipnt? Kliknite/dodirnite <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://kresimirko.github.io/kikipnt/#/\">ovdje</a>.",
 
     "ui.sp.map.title": "Karta",
     "ui.sp.map.marker.focus_on_prev": "Fokusiraj se na prethodni",
@@ -55,7 +55,7 @@
     "ui.sp.settings.map.retina_tiles": "Retina (high DPI) pločice karte",
     "ui.sp.settings.map.retina_tiles.always": "Uvijek",
     "ui.sp.settings.map.retina_tiles.never": "Nikad",
-    "ui.sp.settings.map.retina_tiles.info.auto": "<span class=\"opacity-70\">ⓘ Opcija \"Automatsko\" provjerava ima li uređaj visoki DPI samo u trenutku otvaranja aplikacije.</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://en.wikipedia.org/wiki/Dots_per_inch\">Što je DPI?</a>",
+    "ui.sp.settings.map.retina_tiles.info.auto": "<b>[UPOZORENJE, LISTOPAD 2025: Ovo je postavljeno na \"Nikad\" po defaultu zbog problema.]</b><br><span class=\"opacity-70\">ⓘ Opcija \"Automatsko\" provjerava ima li uređaj visoki DPI samo u trenutku otvaranja aplikacije.</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://en.wikipedia.org/wiki/Dots_per_inch\">Što je DPI?</a>",
     "ui.sp.settings.map.retina_tiles.info.load": "<span class=\"opacity-70\">ⓘ Ako se pločice karte ne uspijevaju učitati, pokušajte opciju \"Nikad\".</span> <a class=\"text-nord-10 dark:text-nord-9\" href=\"https://www.maptilesapi.com/retina-tiles/\">Retina Tiles API</a> <span class=\"opacity-70\">je freemium i može biti potrošeno (resetira se svaki dan).</span>",
 
     "ui.sp.settingsdev.title": "Razvojske opcije",
