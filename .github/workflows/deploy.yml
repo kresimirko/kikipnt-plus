@@ -28,6 +28,7 @@ jobs:
       - name: Build
         env:
           BASE_PATH: "/${{ github.event.repository.name }}"
+          API_KEY_RETINA_TILES: ${{ secrets.API_KEY_RETINA_TILES }}
         run: npm run prod
         working-directory: kikipnt
 
