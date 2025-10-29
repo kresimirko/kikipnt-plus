@@ -18,7 +18,7 @@
 
 :pushpin: **kikipnt+** (eng. izgovor "kiki point plus") **je web aplikacija za traženje mjesta na svijetu**. Pokrenuta [OpenStreetMapom](https://www.openstreetmap.org/).
 
-![kikipnt screenshot](./screenshots/latest.png)
+![kikipnt+ screenshot](./screenshots/latest.png)
 
 Inspiriran [ovime](https://github.com/ful1e5/Bibata_Cursor#what-does-bibata-mean), odlučio sam uzeti "kiki" iz "kikiriki" i dodati "pnt", skraćenu verziju engleske riječi "point" (točka). Tako sam dobio ime **kikipnt**. Na kraju sam dodao i plus.
 
