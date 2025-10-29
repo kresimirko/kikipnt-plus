@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-    <img src="./logo_std.svg">
+    <img src="./logo_std.svg" width=360>
     <br><br>
-    <b style="font-size: 32px;">kikipnt+</b>
+    <b>kikipnt+</b>
     <br>
     održavana verzija projekta <a href="https://github.com/kresimirko/kikipnt">kikipnt</a>
 </p>
