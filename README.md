@@ -5,20 +5,22 @@
 <p align="center">
     <img src="./logo_std.svg">
     <br><br>
-    a submission for <a href="https://digitalnadalmacija.hr/edit"><b>EDIT Code School</b></a>'s advanced JavaScript course's finals (2022/2023) by <a href="https://digitalnadalmacija.hr">Digitalna Dalmacija</a>
+    <b style="font-size: 32px;">kikipnt+</b>
+    <br>
+    a maintained version of the <a href="https://github.com/kresimirko/kikipnt">kikipnt</a> project
 </p>
 
 ---
 
-:link: **Check it out running live!** [kikipnt on GitHub Pages](https://kresimirko.github.io/kikipnt) (without Firebase functionality)
+:link: **Check it out running live:** [kikipnt on GitHub Pages](https://kresimirko.github.io/kikipnt-plus/#/)
 
 ---
 
-:pushpin: **kikipnt** (pronounced "kiki point") **is a web app for looking up places of the world**. Powered by [OpenStreetMap](https://www.openstreetmap.org/).
+:pushpin: **kikipnt** (pronounced "kiki point plus") **is a web app for looking up places of the world**. Powered by [OpenStreetMap](https://www.openstreetmap.org/).
 
 ![kikipnt screenshot](./screenshots/latest.png)
 
-Inspired by [this](https://github.com/ful1e5/Bibata_Cursor#what-does-bibata-mean), I decided to take "kiki" from "kikiriki" (Croatian word for "peanuts") and add "pnt", a shortened version of "point". That's how I got the name **kikipnt**.
+Inspired by [this](https://github.com/ful1e5/Bibata_Cursor#what-does-bibata-mean), I decided to take "kiki" from "kikiriki" (Croatian word for "peanuts") and add "pnt", a shortened version of "point". That's how I got the name **kikipnt**. Then, at the end, I added a plus.
 
 The project files themselves are in the [kikipnt](./kikipnt/) directory.
 
@@ -74,6 +76,8 @@ Check the [dependency graph](https://github.com/kresimirko/kikipnt/network/depen
 
 [Inkscape](https://inkscape.org/)
 
+[Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+
 ### Other resources
 
 Answers from [Stack Overflow](https://stackoverflow.com/) (necessary attributions are in the source code as comments)
@@ -89,5 +93,5 @@ Check the [LICENSE file](./LICENSE.txt) for more details.
 ---
 
 <p align="center">
-    Made by <a href="https://kresimirko.github.io">Luka Krešimir Mihovilović</a> with &#x1F499;
+    Made by <a href="https://kresimirko.github.io">Luka Krešimir Mihovilović</a> with &#128156;
 </p>

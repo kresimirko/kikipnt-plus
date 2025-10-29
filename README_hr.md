@@ -5,20 +5,22 @@
 <p align="center">
     <img src="./logo_std.svg">
     <br><br>
-    predani projekt za finale <a href="https://digitalnadalmacija.hr/edit"><b>EDIT Code School</b></a> naprednog JavaScript tečaja (2022./2023.) <a href="https://digitalnadalmacija.hr">Digitalne Dalmacije</a>
+    <b style="font-size: 32px;">kikipnt+</b>
+    <br>
+    održavana verzija projekta <a href="https://github.com/kresimirko/kikipnt">kikipnt</a>
 </p>
 
 ---
 
-:link: **Pogledajte stranicu live!** [kikipnt na GitHub Pagesima](https://kresimirko.github.io/kikipnt) (bez Firebase funkcionalnosti)
+:link: **Pogledajte stranicu live:** [kikipnt+](https://kresimirko.github.io/kikipnt-plus/#/)
 
 ---
 
-:pushpin: **kikipnt** (eng. izgovor "kiki point") **je web aplikacija za traženje mjesta na svijetu**. Pokrenuta [OpenStreetMapom](https://www.openstreetmap.org/).
+:pushpin: **kikipnt+** (eng. izgovor "kiki point plus") **je web aplikacija za traženje mjesta na svijetu**. Pokrenuta [OpenStreetMapom](https://www.openstreetmap.org/).
 
 ![kikipnt screenshot](./screenshots/latest.png)
 
-Inspiriran [ovime](https://github.com/ful1e5/Bibata_Cursor#what-does-bibata-mean), odlučio sam uzeti "kiki" iz "kikiriki" i dodati "pnt", skraćenu verziju engleske riječi "point" (točka). Tako sam dobio ime **kikipnt**.
+Inspiriran [ovime](https://github.com/ful1e5/Bibata_Cursor#what-does-bibata-mean), odlučio sam uzeti "kiki" iz "kikiriki" i dodati "pnt", skraćenu verziju engleske riječi "point" (točka). Tako sam dobio ime **kikipnt**. Na kraju sam dodao i plus.
 
 Same datoteke projekta su u [kikipnt](./kikipnt/) mapi.
 
@@ -74,6 +76,8 @@ Pogledajte [dependency graph](https://github.com/kresimirko/kikipnt/network/depe
 
 [Inkscape](https://inkscape.org/)
 
+[Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+
 ### Ostali resursi
 
 Odgovori sa [Stack Overflowa](https://stackoverflow.com/) (potrebne atribucije su u izvornom kodu kao komentari)
@@ -89,5 +93,5 @@ Pogledajte [LICENSE datoteku](./LICENSE.txt) za više detalja.
 ---
 
 <p align="center">
-    Napravio <a href="https://kresimirko.github.io">Luka Krešimir Mihovilović</a> sa &#x1F499;
+    Napravio <a href="https://kresimirko.github.io">Luka Krešimir Mihovilović</a> sa &#128156;
 </p>
