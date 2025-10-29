@@ -30,6 +30,8 @@ The project files themselves are in the [kikipnt](./kikipnt/) directory.
 
 (Working directory has to be [kikipnt](./kikipnt/).)
 
+If you want the Retina Tiles to work, you have to specify your own key as an environment variable or put it inside .env. Regardless, the name should be `API_KEY_RETINA_TILES`.
+
 `npm install` - install all the necessary packages (check the [dependency graph](https://github.com/kresimirko/kikipnt/network/dependencies) for a list)
 
 `npm run dev` - build and run the development version

@@ -30,6 +30,8 @@ Same datoteke projekta su u [kikipnt](./kikipnt/) mapi.
 
 (Radna mapa treba biti [kikipnt](./kikipnt/).)
 
+Ako želite da radi Retina Tiles, morate imati svoj API ključ kao environment varijablu ili .env varijablu (svejedno je) pod nazivom `API_KEY_RETINA_TILES`.
+
 `npm install` - instalirajte sve potrebne packageve (pogledajte [dependency graph](https://github.com/kresimirko/kikipnt/network/dependencies) za listu)
 
 `npm run dev` - buildaj i pokreni "development" verziju
