@@ -31,13 +31,13 @@ export class TopBarHeader {
         this.rootEl.appendChild(logo);
 
         const miniLogoImg = document.createElement('img');
-        miniLogoImg.classList.add('max-h-8', 'pointer-events-none', 'w-full');
+        miniLogoImg.classList.add('max-h-8', 'pointer-events-none', 'w-8');
         miniLogoImg.alt = 'kikipnt logo';
         miniLogoImg.src = this.#mainApp.consts.miniLogoURL.toString();
         miniLogo.appendChild(miniLogoImg);
 
         const logoImg = document.createElement('img');
-        logoImg.classList.add('max-h-8', 'pointer-events-none', 'w-full');
+        logoImg.classList.add('max-h-8', 'pointer-events-none', 'w-20');
         logoImg.alt = 'kikipnt logo';
         logo.appendChild(logoImg);
 
